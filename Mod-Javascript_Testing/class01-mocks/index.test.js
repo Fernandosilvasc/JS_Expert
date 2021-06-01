@@ -1,7 +1,6 @@
 const { error } = require("./src/constants");
 const File = require("./src/file");
 const { rejects, deepStrictEqual } = require("assert");
-
 (async () => {
   {
     const filePath = "./mocks/emptyFile-invalid.csv";
@@ -22,20 +21,20 @@ const { rejects, deepStrictEqual } = require("assert");
       {
         id: 123,
         name: "Fernando Silva",
-        profession: "JS Expert Instructor",
-        birthDay: 1986,
+        profession: "Javascript Instructor",
+        age: 35,
+      },
+      {
+        id: 321,
+        name: "Naiane da Silva",
+        profession: "Javascript Specialist",
+        age: 30,
       },
       {
         id: 231,
-        name: "Bruno Gonçalves",
-        profession: "JS Developer",
-        birthDay: 1989,
-      },
-      {
-        id: 245,
-        name: "Lucas Carming",
-        profession: "React Developer",
-        birthDay: 1993,
+        name: "Bruno Gonçalvez",
+        profession: "Java Developer",
+        age: 30,
       },
     ];
 
