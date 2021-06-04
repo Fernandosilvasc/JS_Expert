@@ -1,0 +1,23 @@
+[
+  {
+    "id": "de76c889-ad55-48ca-aa3c-20b39c0f91c7",
+    "name": "El Camino",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "e40dfa2e-69ea-4b0d-bd95-4c6b0f768848",
+    "name": "Element",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "4015dba1-4bbb-4fc1-b648-4ab47c16cab7",
+    "name": "ATS",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  }
+]
